@@ -1,0 +1,6 @@
+- 👋 Olá, eu sou Marcos Paulo estudante de Análise de sistemas que se encontrou na progamação
+- 👀 Interessado em trabalhar nas grandes empresas com times variados trocando experiência e aproveitando cada oportunidade
+- 🌱 Atualmente estou aprendendo Python, php, JavaScript e MySQL
+- 💞️ I’m looking to collaborate on ...
+- 📫 Contato: (71) 99262-1121(whatsapp)
+- 📫 Email: mp.matos25@gmail.com
