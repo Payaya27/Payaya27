@@ -2,5 +2,5 @@
 - 👀 Interessado em trabalhar nas grandes empresas com times variados trocando experiência e aproveitando cada oportunidade
 - 🌱 Atualmente estou aprendendo Python, php, JavaScript e MySQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 Contato: (71) 99262-1121(whatsapp)
-- 📫 Email: mp.matos25@gmail.com
+- 📫 Contato: (71) 9 9262-1121(whatsapp)
+- 📫 Email: marcosmatosteodoro@gmail.com
