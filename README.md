@@ -1,6 +1,6 @@
-- 👋 Olá, eu sou Marcos Paulo estudante de Análise de sistemas que se encontrou na progamação
-- 👀 Interessado em trabalhar nas grandes empresas com times variados trocando experiência e aproveitando cada oportunidade
-- 🌱 Atualmente estou aprendendo Python, php, JavaScript e MySQL
-- 💞️ I’m looking to collaborate on ...
+- 👋 Olá, eu sou Marcos Paulo Programador PHP junior, estudante de Análise de sistemas que se encontrou na progamação
+- 👀 Interessado em trabalhar principalmente com Back-end (mas sei front-end tambem) em boas empresas com times variados trocando experiência e aproveitando cada oportunidade
+- 🌱 Atualmente sei programar em PHP, NODE.js e Python
+- 💞️ 
 - 📫 Contato: (71) 9 9262-1121(whatsapp)
 - 📫 Email: marcosmatosteodoro@gmail.com
